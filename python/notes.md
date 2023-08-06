@@ -1,0 +1,2 @@
+- sRGB is the current defined standard colorspace for the web, and it is usually the assumed colorspace for images that are neither tagged for a colorspace nor have an embedded color profile.
+- There are two formulas for linear to sRGB conversion. Check out more [here](https://entropymine.com/imageworsener/srgbformula/) and [here](https://www.w3.org/WAI/GL/wiki/Relative_luminance)
