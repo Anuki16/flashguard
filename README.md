@@ -4,6 +4,10 @@ A pair of smart glasses for photosensitive epilepsy patients which can detect se
 
 ![image](https://github.com/Anuki16/flashguard/assets/63456806/08f102cd-65a7-4d36-ad7e-a250e808df4b)
 
+## Overview of the System
+
+![image](https://github.com/Anuki16/flashguard/assets/63456806/9464873e-375c-4291-8a13-75235756a054)
+
 
 
 
